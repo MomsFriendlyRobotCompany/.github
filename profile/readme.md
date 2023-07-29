@@ -8,6 +8,7 @@ This is a collection of robotics libraries and robot project work.
 | [opencv_camera][12] | python | OpenCV tools |
 | [pycreate2][7] | python | iRobot Create api |
 | [serialport][10] | C++ | Serial port driver |
+| [slurm][14] | Python | bunch of useful tools |
 | [spiceweasel][4] | C,C++,python | Kalman filter code |
 | [squaternion][3] | C++, python | Simple quaternion library |
 | [the_collector][11] | python | data storage and serialization |
@@ -29,6 +30,7 @@ This is a collection of robotics libraries and robot project work.
 [11]: https://github.com/MomsFriendlyRobotCompany/the_collector
 [12]: https://github.com/MomsFriendlyRobotCompany/opencv_camera
 [13]: https://github.com/MomsFriendlyRobotCompany/ttastromech
+[14]: https://github.com/MomsFriendlyRobotCompany/slurm
 
 ## Robots and Projects
 
