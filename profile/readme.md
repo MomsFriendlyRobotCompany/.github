@@ -7,7 +7,7 @@ This is a collection of robotics libraries and robot project work.
 | [mote][2] | ansible | Setup PiOS and Ubuntu how I like them |
 | [opencv_camera][12] | python | OpenCV tools |
 | [pycreate2][7] | python | iRobot Create api |
-| [serialport][10] | C++ | Serial port driver |
+| [serialport][10] | C++ | Serial port driver using `aiso` |
 | [slurm][14] | Python | bunch of useful tools |
 | [spiceweasel][4] | C,C++,python | Kalman filter code |
 | [the_collector][11] | python | data storage and serialization |
