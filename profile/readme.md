@@ -10,7 +10,6 @@ This is a collection of robotics libraries and robot project work.
 | [serialport][10] | C++ | Serial port driver |
 | [slurm][14] | Python | bunch of useful tools |
 | [spiceweasel][4] | C,C++,python | Kalman filter code |
-| [squaternion][3] | C++, python | Simple quaternion library |
 | [the_collector][11] | python | data storage and serialization |
 | [thundercougarfalconbird][6] | python | various dynamic models for Controls work |
 | [ttyastromech][13] | python | ASCII to astromech beeps |
