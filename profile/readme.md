@@ -4,6 +4,7 @@ This is a collection of robotics libraries and robot project work.
 |---|---|---|
 | [clamps][9] | python | PS4/5 driver |
 | [ipc][15] | c++ | Interprocess communications |
+| [foxglove-mcap][16] | python | Examples with Foxglove mcap |
 | [moms_apriltags][1] | python | apriltag library |
 | [mote][2] | ansible | Setup PiOS and Ubuntu how I like them |
 | [opencv_camera][12] | python | OpenCV tools |
@@ -32,6 +33,7 @@ This is a collection of robotics libraries and robot project work.
 [13]: https://github.com/MomsFriendlyRobotCompany/ttastromech
 [14]: https://github.com/MomsFriendlyRobotCompany/slurm
 [15]: https://github.com/MomsFriendlyRobotCompany/ipc
+[16]: https://github.com/MomsFriendlyRobotCompany/mcap-protobuf
 
 ## Robots and Projects
 
