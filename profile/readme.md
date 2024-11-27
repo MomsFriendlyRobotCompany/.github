@@ -7,6 +7,7 @@ This is a collection of robotics libraries and robot project work.
 | [foxglove-mcap][16] | python | Examples with Foxglove mcap |
 | [moms_apriltags][1] | python | apriltag library |
 | [mote][2] | ansible | Setup PiOS and Ubuntu how I like them |
+| [oak camera][17] | python | Oak-D lite stereo camera | 
 | [opencv_camera][12] | python | OpenCV tools |
 | [pycreate2][7] | python | iRobot Create api |
 | [serialport][10] `Archived` | C++ | Serial port driver using `aiso` |
@@ -34,6 +35,7 @@ This is a collection of robotics libraries and robot project work.
 [14]: https://github.com/MomsFriendlyRobotCompany/slurm
 [15]: https://github.com/MomsFriendlyRobotCompany/ipc
 [16]: https://github.com/MomsFriendlyRobotCompany/mcap-protobuf
+[17]: https://github.com/MomsFriendlyRobotCompany/oak-d-lite
 
 ## Robots and Projects
 
